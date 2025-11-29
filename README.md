@@ -76,7 +76,9 @@ best HellaSwag accuracy: 0.369
 ### Loss & HellaSwag curves
 Plots are included in the `plots/` directory.
 
-plots/loss_hellaswag.png
+<p align="center">
+  <img src="plots/loss_hellaswag.png" width="850">
+</p>
 
 ---
 
